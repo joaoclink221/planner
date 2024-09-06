@@ -61,7 +61,7 @@ export function App() {
   return (
     <div className="h-screen flex items-center justify-center">
 
-      <div className="max-w-3xl w-full px-6 text-center space-y-10">
+      <div className="max-w-3xl w-full px-6 text-center space-y-11">
         <p className="text-zinc-300 text-lg ">convide seus amigos e planeje a próxima viagem!</p>
 
         <div className="space-y-4">
